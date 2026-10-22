@@ -1,0 +1,12 @@
+{
+  "enabledPlugins": {
+    "commit-commands@claude-plugins-official": true
+  }, 
+  "statusLine": {
+    "type": "command",
+    "command": "bash .claude/statusline-command.sh"
+  },
+  "companyAnnouncements": [
+    "👋 Welcome! New to this codebase? Ask Claude Code: 'Explain the architecture of this project.'"
+  ]
+}
